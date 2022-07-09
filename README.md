@@ -2,4 +2,4 @@
 
 This config file uses pixels as spacing and font size units and allows only three utilities for border radius.
 
-It also adds a slideIn slideOut animations.
+It also adds slideIn/slideOut animations.
